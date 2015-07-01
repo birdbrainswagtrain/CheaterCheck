@@ -69,5 +69,16 @@ CC.List = {
 	
 	["STEAM_0:1:62132405"] = "Sadistic, C++ hacks, mpgh, ratting, doxing",
 	
-	["STEAM_0:1:7339672"] = "d3x/ehex, C++ hacks, mpgh, ratting, doxing, dunked.asia owner"
+	["STEAM_0:1:7339672"] = "d3x/ehex, C++ hacks, mpgh, ratting, doxing, dunked.asia owner",
+	
+	["STEAM_0:0:105412345"] = "x0s, C++ hacks, mpgh, ratting, doxing",
+	
+	["STEAM_0:0:40218703"] = "Luke, C++ hacks, mpgh, huge skid",
+	
+	["STEAM_0:1:32634764"] = "Deagler, C++ hacks, mpgh, VAC bans",
+	
+	["STEAM_0:0:36762884"] = "Novakid, mpgh, huge skid, VAC bans",
+	
+	["STEAM_0:0:120941798"] = "IPod/BooBoo Keys, C++ hacks, mpgh",
+	["STEAM_0:1:71209027"] = "IPod/BooBoo Keys alt, C++ hacks, mpgh (Alt of STEAM_0:0:120941798)"
 }
