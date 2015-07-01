@@ -1,5 +1,5 @@
 # CheaterCheck
-Check all players that join vs a database of cheaters!
+Check all players that join against a database of cheaters!
 <br>
 <br>
 Configuration:
