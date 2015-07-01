@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+	"name"	"CheaterCheck"
+	"info"	"Check if players are cheaters!"
+}
