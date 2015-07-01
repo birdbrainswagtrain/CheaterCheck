@@ -67,5 +67,7 @@ CC.List = {
 	
 	["STEAM_0:1:53189353"] = "Kawurftha, C++ hacks, mpgh, huge skid, VAC bans",
 	
-	["STEAM_0:1:62132405"] = "Sadistic, C++ hacks, mpgh, ratting, doxing"
+	["STEAM_0:1:62132405"] = "Sadistic, C++ hacks, mpgh, ratting, doxing",
+	
+	["STEAM_0:1:7339672"] = "d3x/ehex, C++ hacks, mpgh, ratting, doxing, dunked.asia owner"
 }
