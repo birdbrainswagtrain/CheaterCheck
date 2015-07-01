@@ -53,5 +53,7 @@ CC.List = {
 	
 	["STEAM_0:0:23976136"] = "SleepyCat, C++ hacks, mpgh, VAC bans",
 	
-	["STEAM_0:0:19321794"] = "Willox, C++ hacks, huge exploiter, lua viruses, requestfile"
+	["STEAM_0:0:19321794"] = "Willox, C++ hacks, huge exploiter, lua viruses, requestfile",
+	
+	["STEAM_0:0:40143824"] = "Tyler/snixxz8, C++ hacks, mpgh, huge skid, VAC bans",
 }
