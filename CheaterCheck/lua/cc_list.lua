@@ -80,5 +80,7 @@ CC.List = {
 	["STEAM_0:0:36762884"] = "Novakid, mpgh, huge skid, VAC bans",
 	
 	["STEAM_0:0:120941798"] = "IPod/BooBoo Keys, C++ hacks, mpgh",
-	["STEAM_0:1:71209027"] = "IPod/BooBoo Keys alt, C++ hacks, mpgh (Alt of STEAM_0:0:120941798)"
+	["STEAM_0:1:71209027"] = "IPod/BooBoo Keys alt, C++ hacks, mpgh (Alt of STEAM_0:0:120941798)",
+	
+	["STEAM_0:0:126020446"] = "Leystryku alt, C++ hacks, mpgh, old cheater"
 }
